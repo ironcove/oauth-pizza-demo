@@ -11,7 +11,7 @@
     - You write useful code comments
 
 ## Use Case
-* Now that Toys R Us is going bankrupt Tony Soprano, the CEO of **Pizza R Us**, a small New Jersey pizza chain thinks its the perfect time to take over the pizza world. Currently all orders are placed on over the phone. This means he only has phone numbers of customers who called. He has no idea who is ordering, when they order, how often or why they order. The CEO thinks ordering online is the key to access all that information and more!
+* Now that Toys R Us is going bankrupt Tony Soprano, the CEO of **Pizza R Us**, a small New Jersey pizza chain thinks its the perfect time to take over the pizza world. Currently all orders are placed over the phone. This means he only has phone numbers of customers who called. He has no idea who is ordering, when they order, how often or why they order. The CEO thinks ordering online is the key to access all that information and more!
 * If he can have gender and location of his customers he can target them with coupons and various other special deals.
 
 ## We Need Your Help
@@ -28,7 +28,7 @@
 ## Rules
 * Have fun
 * Only spend 4 hours on this
-    - It should take 6 hours to complete but see what you can accomplish in 4 hour
+    - It should take 6 hours to complete but see what you can accomplish in 4 hours
 * Be creative
 * It just has to work and don't worry about it looking fancy, basic CSS will suffice
 
