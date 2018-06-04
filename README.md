@@ -7,6 +7,7 @@
     - You can write organized code
     - You are comfortable using Git and Github
     - You write informative commit statements
+    - You can deploy to a production environment
 
 ## Use Case
 * Now that Toys R Us is going bankrupt Tony Soprano, the CEO of **Pizza R Us**, a small New Jersey pizza chain thinks its the perfect time to take over the pizza world. Currently all orders are placed on over the phone. This means he only has phone numbers of customers who called. He has no idea who is ordering, when they order, how often or why they order. The CEO thinks ordering online is the key to access all that information and more!
