@@ -1,4 +1,4 @@
-# Having Fun with Auth0
+# Pizza R Us - Web App POC Coding Exercise
 
 ## Purpose
 * Demonstrate:
